@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rinsha<br>A passionate MERN stack developer <br>🌱 I’m currently learning Next.js, TypeScript, Figma<br>💬 Ask me about react,Node.js,MongoDB,Express.js<br>📫 How to reach me rinshajouhar5181@gmail.com
+Hi 👋, I'm Rinsha<br>A passionate MERN stack developer <br>🌱 I’m currently learning Next.js, TypeScript, Figma<br>💬 Ask me about react, Node.js, MongoDB, Express.js<br>📫 How to reach me rinshajouhar5181@gmail.com
 
 
 ## 🌐 Socials:
